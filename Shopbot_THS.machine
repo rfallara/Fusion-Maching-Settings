@@ -54,13 +54,13 @@
   </simulation>
 
   <post>
-    <postProcessor>file://G:/My Drive/Projects/hsm-post-processors/shopbot-rjf.cps</postProcessor>
+    <postProcessor>linked://G:/My Drive/Projects/THS Post Processors/shopbot-rjf.cps</postProcessor>
     <postProperties>
       <Parameters/>
     </postProperties>
     <setupSheet></setupSheet>
     <setupSheetProperties/>
-    <outputFolder>C:\Users\rfall\AppData\Local\Fusion 360 CAM\nc</outputFolder>
+    <outputFolder>C:/Users/rfall/AppData/Local/Fusion 360 CAM/nc</outputFolder>
   </post>
 
   <axis actuator="linear" coordinate="X" homePosition="0mm" id="X" link="table" maximumFeed="15240mm/min" name="" offset="0mm 0mm 0mm" range="0mm 2438.3999999999996mm" rapidFeed="25400mm/min" resolution="0mm"/>
