@@ -13,7 +13,7 @@
 
   <dimensions depth="0mm" height="0mm" weight="0kg" width="0mm"/>
 
-  <capacities depth="609.59999999999991mm" height="88.899999999999991mm" weight="0kg" width="1219.1999999999998mm"/>
+  <capacities depth="1193.8mm" height="76.200000000000003mm" weight="0kg" width="1219.1999999999998mm"/>
 
   <png128></png128>
 
@@ -43,7 +43,7 @@
 
   <machiningTime ratio="1" toolChangeTime="15s"/>
 
-  <capabilities maximumBlockProcessingSpeed="0" maximumFeedrate="4572mm/min" workOffsets="100"/>
+  <capabilities maximumBlockProcessingSpeed="0" maximumFeedrate="18288mm/min" workOffsets="100"/>
 
   <simulation retractOnIndexing="yes" shortestAngularRotation="yes" tableAttachPoint="0mm 0mm 0mm" toolAttachPoint="0mm 0mm 0mm" wcs="0mm 0mm 0mm">
     <machineAssembly></machineAssembly>
@@ -56,7 +56,7 @@
     </postProperties>
     <setupSheet></setupSheet>
     <setupSheetProperties/>
-    <outputFolder>C:/Users/rfall/AppData/Local/Fusion 360 CAM/nc</outputFolder>
+    <outputFolder>C:/Users/rfall/Desktop/G-Code</outputFolder>
   </post>
 
   <axis actuator="linear" coordinate="X" homePosition="0mm" id="X" link="table" maximumFeed="0mm/min" name="" offset="0mm 0mm 0mm" rapidFeed="0mm/min" resolution="0mm"/>
