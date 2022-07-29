@@ -54,7 +54,7 @@
   </simulation>
 
   <post>
-    <postProcessor>linked://G:/My Drive/Projects/THS Post Processors/shopbot-rjf.cps</postProcessor>
+    <postProcessor>cloud://shopbot-rjf.cps</postProcessor>
     <postProperties>
       <Parameters/>
     </postProperties>

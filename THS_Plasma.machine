@@ -50,7 +50,7 @@
   </simulation>
 
   <post>
-    <postProcessor>linked://G:/My Drive/Projects/THS Post Processors/Plasmac-rjf.cps</postProcessor>
+    <postProcessor>cloud://Plasmac-rjf.cps</postProcessor>
     <postProperties>
       <Parameters/>
     </postProperties>
